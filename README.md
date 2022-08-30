@@ -1,1 +1,1 @@
-# exercicio-ternario
+branch de estudos de operadores ternarios
